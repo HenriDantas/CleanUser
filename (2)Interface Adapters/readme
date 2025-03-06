@@ -1,0 +1,6 @@
+here we have Interfaces (contracts) for abstract and adaptation from external layer(infra) to depper layer(use cases)
+
+MVC for example
+
+use case layer has only knowledge from interface layer, he can`t see external layer
+

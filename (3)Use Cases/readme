@@ -1,0 +1,5 @@
+here we have bussiness rules(use cases?) 
+
+use case layer has only knowledge to use from interface layer(abstract infos), he should can`t see external layer
+
+send data flow to entities layer

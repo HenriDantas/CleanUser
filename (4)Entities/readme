@@ -1,0 +1,7 @@
+here we have bussiness rules objects(class with params)
+
+can`t have knowledge about external layers
+
+lower chance to change when external layers change
+
+the more depper you in layers, the more abstract the software became and encapsulates upper level policies 
